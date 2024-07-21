@@ -1,0 +1,40 @@
+{
+  "name": "bajo-web-mpa-libs",
+  "version": "1.0.0",
+  "description": "Some 3rd party libs for MPA's Web Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardhi/bajo-web-mpa-libs.git"
+  },
+  "keywords": [
+    "lib",
+    "3rdparty",
+    "web",
+    "webserver",
+    "bajo",
+    "framework",
+    "fastify",
+    "modular"
+  ],
+  "author": "Ardhi Lukianto <ardhi@lukianto.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardhi/bajo-web-mpa-libs/issues"
+  },
+  "homepage": "https://github.com/ardhi/bajo-web-mpa-libs#readme",
+  "dependencies": {
+    "@eonasdan/tempus-dominus": "^6.9.9",
+    "@highlightjs/cdn-assets": "^11.10.0",
+    "echarts": "^5.5.1",
+    "highlight.js": "^11.10.0",
+    "imagesloaded": "^5.0.0",
+    "jquery": "^3.7.1",
+    "masonry-layout": "^4.2.2",
+    "prismjs": "^1.29.0"
+  }
+}

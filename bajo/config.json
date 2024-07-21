@@ -1,0 +1,12 @@
+{
+  "alias": "mpalibs",
+  "virtuals": {
+    "jquery": true,
+    "prismjs": true,
+    "masonry": true,
+    "highlightjs": false,
+    "imagesloaded": true,
+    "tempusDominus": true,
+    "echarts": false
+  }
+}
