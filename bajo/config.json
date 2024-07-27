@@ -1,12 +1,7 @@
 {
   "alias": "mpalibs",
-  "virtuals": {
-    "jquery": true,
-    "prismjs": true,
-    "masonry": true,
-    "highlightjs": false,
-    "imagesloaded": true,
-    "tempusDominus": true,
-    "echarts": false
-  }
+  "virtuals": ["jquery", "prismjs", "masonry", "highlightjs", "imagesloaded",
+    "tempusDominus", "echarts"
+  ],
+  "dependencies": ["bajo-web-static"]
 }
