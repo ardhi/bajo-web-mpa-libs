@@ -1,7 +1,0 @@
-{
-  "alias": "mpalibs",
-  "virtuals": ["jquery", "prismjs", "masonry", "highlightjs", "imagesloaded",
-    "tempusDominus", "echarts"
-  ],
-  "dependencies": ["bajo-web-static"]
-}
